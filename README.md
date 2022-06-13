@@ -29,4 +29,4 @@ Sahabat Ternak hadir untuk menjawab permasalahan tersebut. Sahabat Ternak merupa
 ## Class
 ## ERD
 ## Arsitektur Sistem
-## CRUD
+## Fungsi Utama
