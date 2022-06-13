@@ -1,6 +1,15 @@
-<h1 align="center"> PSBO Kelompok 2
-  <h1 align="center"> Modul Manajemen Data Hewan Ternak
-
+<h1 align="center"> PSBO Kelompok 2 </h1>
+<h1 align="center"> Modul Manajemen Data Hewan Ternak </h1>
+    
+## Developer
+|Nama|NIM|
+|--|--|
+|**Imaduddin Abdurrahman**|G64190023|
+|**Yuritma Dwi Ardita Putri**|G64190048|
+|**Fitria Nuryantika**|G64190058|
+|**Irgi Muttaqin Fahrezi Situmorang**|G64190103|
+|**Malvin Palevi**|G64190120|
+    
 ## Deskripsi Singkat
     
 **Sahabat Ternak**
