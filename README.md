@@ -25,7 +25,12 @@ Sahabat Ternak hadir untuk menjawab permasalahan tersebut. Sahabat Ternak merupa
 ## Metode Pengembangan Desain
 
 ## Use Case
-## Activity
+## Activity Diagram
+
+![loginternak drawio](https://user-images.githubusercontent.com/80470248/173869190-4504c444-c788-428c-8fdc-df47a1c93453.png)
+![addternak drawio](https://user-images.githubusercontent.com/80470248/173869323-aff5a80a-2b30-4dbf-a2a3-ddbfcd7383fe.png)
+![viewternak drawio](https://user-images.githubusercontent.com/80470248/173868929-c1c10de6-989c-4817-927f-0fd5bf653181.png)
+
 ## Class
 ## ERD
 ## Arsitektur Sistem
