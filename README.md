@@ -21,13 +21,13 @@ Sahabat Ternak hadir untuk menjawab permasalahan tersebut. Sahabat Ternak merupa
     
 ## Ruang Lingkup Pengembangan
 **Perangkat Keras**
-Processor           : AMD Ryzen 5 3500U @ 2.1GHz
-Memory              : 8 GB
-Graphics Card       : AMD Radeon Graohics Processor
-Storage             : 512 GB SSD
-**Perangkat Lunak**
-Operating System    : Windows 10
-Text Editor		    : Visual Studio Code
+Processor           : AMD Ryzen 5 3500U @ 2.1GHz <br>
+Memory              : 8 GB <br>
+Graphics Card       : AMD Radeon Graohics Processor <br>
+Storage             : 512 GB SSD <br>
+**Perangkat Lunak**<br>
+Operating System    : Windows 10 <br>
+Text Editor		    : Visual Studio Code <br>
 
 ## Konsep OOP yang digunakan
 **Object dan Class**
