@@ -53,15 +53,15 @@ Hal ini karena Composite dapat memberikan solusi dari masalah berupa tree. Pada 
 
 Tahapan yang kami lakukan ketika mengembangkan aplikasi sahabat ternak menggunakan metode waterfall. Tahapan tersebut adalah sebagai berikut, yaitu Requirement Analysis, Design System, Coding, Integration, dan terakhir Operation & Maintenance. Berikut penjelasan dari tiap tahapan yang kami lakukan: 
 
-1. Requirement Analysis : ta
+1. Requirement Analysis : tahapan ini kami lakukan dengan berdikusi satu tim dan mencari permasalahan yang ada
 
-2. Design System
+2. Design System : Kami mulai merancang sistem yang akan kami bangun dengan membuat Use Case, Activity, Class Diagram
 
-3. Coding
+3. Coding : Setelah sudah mulai tergambar arah aplikasi yang akan kami kerjakan, kami mulai melakukan aktifitas pengcodingan
 
-4. Intergration
+4. Intergration : Hasil dari coding siap digunakan oleh user
 
-5. Operation & Maintenance
+5. Operation & Maintenance : Pengoperasian aplikasi oleh user dan pemeliharaan sistem oleh kami
 
 # Hasil 
 
