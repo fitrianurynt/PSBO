@@ -33,6 +33,16 @@ Text Editor		    : Visual Studio Code <br>
 
 ## Konsep OOP yang digunakan
 **Object dan Class**
+
+## Architecture Pattern
+
+Model-View-Controller (MVC)
+MVC, kami menggunakan MVC dikarenakan Pattern ini sesuai dengan aplikasi yang kami kembangkan
+
+Model : Mengelola program aplikasi sebagai penentu bagaimana data disimpan, dtambah, maupun dirubah
+View : Menampilkan secara visual data
+Controller : Mengartikan event yang dilakukan pengguna dan menjadikannya perintah sehingga model dapat berubah
+
 ## Design Pattern
 
 Composite
@@ -41,7 +51,9 @@ Hal ini karena Composite dapat memberikan solusi dari masalah berupa tree. Pada 
 
 ## Metode Pengembangan Desain
 
-1. Requirement Analysis
+Tahapan yang kami lakukan ketika mengembangkan aplikasi sahabat ternak menggunakan metode waterfall. Tahapan tersebut adalah sebagai berikut, yaitu Requirement Analysis, Design System, Coding, Integration, dan terakhir Operation & Maintenance. Berikut penjelasan dari tiap tahapan yang kami lakukan: 
+
+1. Requirement Analysis : ta
 
 2. Design System
 
@@ -92,5 +104,5 @@ Fungsi CRUD
 - DELETE    : -
 
 
-Hasil Implementasi
+## Hasil Implementasi
 
