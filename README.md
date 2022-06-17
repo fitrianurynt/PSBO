@@ -35,6 +35,10 @@ Text Editor		    : Visual Studio Code <br>
 ## Metode Pengembangan Desain
 
 ## Use Case Diagram
+
+![WhatsApp Image 2022-06-16 at 9 45 17 PM](https://user-images.githubusercontent.com/63392797/174346840-2c896b51-ad6d-4339-8c21-fc3c5a980cb4.jpeg)
+
+
 ## Activity Diagram
 
 ![loginternak drawio](https://user-images.githubusercontent.com/80470248/173869190-4504c444-c788-428c-8fdc-df47a1c93453.png)
