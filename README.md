@@ -46,6 +46,9 @@ Text Editor		    : Visual Studio Code <br>
 ![Copy of PSBO drawio](https://user-images.githubusercontent.com/63392797/174244854-63402d09-c92d-43d0-9b42-761e3f79b7c7.png)
 
 ## ERD
+
+![psbo drawio](https://user-images.githubusercontent.com/55616308/174269793-03852bd8-8b01-4768-82a8-d311243d62ad.png)
+
 ## Arsitektur Sistem
 ## Fungsi Utama
 
