@@ -17,6 +17,8 @@
 Kamu adalah seorang mahasiswa IPB University yang ingin menjadi seorang peternak. Kamu mulai mencari tau bagaimana cara menjadi seorang perternak yang baik. Suatu waktu kamu dihadapkan suatu masalah, yaitu bagaimana cara mengetahui hewan-hewan ternak yang kamu miliki. Mungkin ketika seorang peternak hanya memiliki 10-20 hewan ternak, peternak tersebut masih bisa mengawasi serta mengenali hewannya masing-masing. Coba bayangkan jika dalam suatu peternakan ada 1000 bahkan 10000 hewan disana, pasti cukup sulit mengetahui kondisi masing-masing hewannya bukan?
     
 Sahabat Ternak hadir untuk menjawab permasalahan tersebut. Sahabat Ternak merupakan sebuah Mobile Apps yang membantu kalian semua untuk mendata hewan ternak yang kalian miliki. Menggunakan Sahabat Ternak dapat memudahkan pengguna untuk mengetahui status hewan secara spesifik dari masing-masing hewannya.
+
+## User Analysis
     
     
 ## Ruang Lingkup Pengembangan
@@ -32,12 +34,28 @@ Text Editor		    : Visual Studio Code <br>
 ## Konsep OOP yang digunakan
 **Object dan Class**
 ## Design Pattern
+
+Composite
+
+Hal ini karena Composite dapat memberikan solusi dari masalah berupa tree. Pada kasus composite sebuah masalah dapat dilihat sebagai dua atribut, yaitu Products dan Boxes. Pada aplikasi yang kami rancang kami menganggap bahwa Hewan ternak merupakan Boxes dan Sapi, Kambing, dan Unggas merupakan Products.
+
 ## Metode Pengembangan Desain
+
+1. Requirement Analysis
+
+2. Design System
+
+3. Coding
+
+4. Intergration
+
+5. Operation & Maintenance
+
+# Hasil 
 
 ## Use Case Diagram
 
 ![WhatsApp Image 2022-06-16 at 9 45 17 PM](https://user-images.githubusercontent.com/63392797/174346840-2c896b51-ad6d-4339-8c21-fc3c5a980cb4.jpeg)
-
 
 ## Activity Diagram
 
@@ -54,5 +72,25 @@ Text Editor		    : Visual Studio Code <br>
 ![psbo drawio](https://user-images.githubusercontent.com/55616308/174269793-03852bd8-8b01-4768-82a8-d311243d62ad.png)
 
 ## Arsitektur Sistem
+
 ## Fungsi Utama
+
+Sahabat Ternak memiliki 2 fitur utama yaitu :
+1. Melihat Daftar Hewan Ternak
+
+User dapat melihat daftar hewan ternak pada aplikasi yang dimiliki sesuai data yang ada pada database user
+
+2. Menambah Data Hewan Ternak
+
+User dapat menambahkan data pada database user untuk selanjutnya dapat dilihat di fitur "Melihat Daftar Hewan Ternak"
+
+Fungsi CRUD
+
+- CREATE    : Pengguna dapat membuat database baru pertama kali ketika login dengan menambahkan data pada database
+- READ      : Pengguna dapat melihat daftar hewan ternak
+- UPDATE    : Pengguna dapat menambahkan data pada database hewan ternak
+- DELETE    : -
+
+
+Hasil Implementasi
 
