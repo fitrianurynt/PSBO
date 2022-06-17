@@ -43,8 +43,7 @@ Text Editor		    : Visual Studio Code <br>
 
 ## Class Diagram
 
-![Copy of PSBO drawio (1)](https://user-images.githubusercontent.com/63392797/174344868-5367193c-372f-40c2-8ecc-763aea4a83f7.png)
-
+![Copy of PSBO drawio (2)](https://user-images.githubusercontent.com/63392797/174346275-8e1cf09c-2b28-42b9-9e73-76f3aaa42502.png)
 
 ## ERD
 
