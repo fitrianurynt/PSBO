@@ -83,22 +83,19 @@ Tahapan yang kami lakukan ketika mengembangkan aplikasi sahabat ternak menggunak
 
 ## Fungsi Utama
 
-Sahabat Ternak memiliki 2 fitur utama yaitu :
+fungsi utama:
 1. Melihat Daftar Hewan Ternak
-
-User dapat melihat daftar hewan ternak pada aplikasi yang dimiliki sesuai data yang ada pada database user
-
-2. Menambah Data Hewan Ternak
-
-User dapat menambahkan data pada database user untuk selanjutnya dapat dilihat di fitur "Melihat Daftar Hewan Ternak"
+2. Menambah Daftar Hewan Ternak
+3. Menghapus Daftar Hewan Ternak
 
 Fungsi CRUD
 
-- CREATE    : Pengguna dapat membuat database pada form pengisian data hewan ternak
-- READ      : Pengguna dapat melihat daftar hewan ternak
+- CREATE    : Peternak dapat membuat database pada form pengisian data hewan ternak
+- READ      : Peternak dapat melihat daftar hewan ternak
 - UPDATE    : -
-- DELETE    : -
+- DELETE    : Peternak dapat menghapus daftar hewan ternak yang sudah ada
 
 
 ## Hasil Implementasi
+
 
