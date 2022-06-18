@@ -98,9 +98,9 @@ User dapat menambahkan data pada database user untuk selanjutnya dapat dilihat d
 
 Fungsi CRUD
 
-- CREATE    : Pengguna dapat membuat database baru pertama kali ketika login dengan menambahkan data pada database
+- CREATE    : Pengguna dapat membuat database pada form pengisian data hewan ternak
 - READ      : Pengguna dapat melihat daftar hewan ternak
-- UPDATE    : Pengguna dapat menambahkan data pada database hewan ternak
+- UPDATE    : -
 - DELETE    : -
 
 
