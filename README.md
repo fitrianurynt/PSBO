@@ -79,10 +79,6 @@ Tahapan yang kami lakukan ketika mengembangkan aplikasi sahabat ternak menggunak
 
 ![Copy of PSBO drawio (1)](https://user-images.githubusercontent.com/63392797/174351207-40c3da1b-3d92-44dc-be30-edee13da6cad.png)
 
-## ERD
-
-![psbo drawio](https://user-images.githubusercontent.com/55616308/174269793-03852bd8-8b01-4768-82a8-d311243d62ad.png)
-
 ## Arsitektur Sistem
 
 ## Fungsi Utama
