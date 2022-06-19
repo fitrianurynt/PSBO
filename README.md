@@ -94,8 +94,3 @@ Fungsi CRUD
 - READ      : Peternak dapat melihat daftar hewan ternak
 - UPDATE    : -
 - DELETE    : Peternak dapat menghapus daftar hewan ternak yang sudah ada
-
-
-## Hasil Implementasi
-
-
